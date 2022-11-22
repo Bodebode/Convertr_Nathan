@@ -1,0 +1,25 @@
+{
+  "name": "convertr",
+  "version": "1.0.0",
+  "description": "techtest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathancastor/convertrtest.git"
+  },
+  "keywords": [
+    "convertrtest"
+  ],
+  "author": "Nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathancastor/convertrtest/issues"
+  },
+  "homepage": "https://github.com/Nathancastor/convertrtest#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
