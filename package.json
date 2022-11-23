@@ -4,7 +4,7 @@
   "description": "techtest",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "Playwright"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "devDependencies": {
     "@playwright/test": "^1.28.0",
     "cypress": "^11.1.0"
+  },
+  "dependencies": {
+    "@angular/cli": "^15.0.0"
   }
 }

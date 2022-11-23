@@ -143,8 +143,4 @@ describe('User Creates an Article ', () => {
 
 });
 
-//
-//
-// describe('Study Structure - Create Visit', () =>
-//       it('Verifies if there are already lists of Studies, users can see them', () => {
 
